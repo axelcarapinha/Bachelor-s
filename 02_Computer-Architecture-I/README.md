@@ -69,12 +69,12 @@ It should appear:
 
 ## Results
 ### Starting image
-![Starting image](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/original.png)
+![Starting image](https://github.com/axelcarapinha/Bachellor-s/blob/main/02_Computer-Architecture-I/images/original.png)
 
 ### Results (each choosing a different character from the 3 available)
-![Character 1](https://github.com/axelcarapinha/Bachellor-s/02_Computer-Architecture-I/images/leftCharacter.png)
-![Character 2](https://github.com/axelcarapinha/Bachellor-s/02_Computer-Architecture-I/images/middleCharacter.png)
-![Character 3](https://github.com/axelcarapinha/Bachellor-s/02_Computer-Architecture-I/images/rightCharacter.png)
+![Character 1](https://github.com/axelcarapinha/Bachellor-s/blob/main/02_Computer-Architecture-I/images/leftCharacter.png)
+![Character 2](https://github.com/axelcarapinha/Bachellor-s/blob/main/02_Computer-Architecture-I/images/middleCharacter.png)
+![Character 3](https://github.com/axelcarapinha/Bachellor-s/blob/main/02_Computer-Architecture-I/images/rightCharacter.png)
 
 
 
