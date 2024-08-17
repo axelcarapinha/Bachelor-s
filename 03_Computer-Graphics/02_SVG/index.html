@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Axel &rarr; SVG</title>
+
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <script defer type="module" src="src/js/main.js"></script>
+</head>
+<body>
+    <h1 class="title">
+        SVG &CenterDot; Axel &CenterDot; 55248
+    </h1>
+    <!-- Input + Displaying the game -->
+    <div id="basket"></div>
+
+    <div class="userInputMenu"> <!-- Created mainly to group things in the HTML -->
+        <div class="inputContainer">
+            <label for="arenaSize">Arena Size:</label>
+            <select class="arenaInputBox" id="arenaSize">
+                <!-- maxWidth = (divWidth / 2) - 50; -->
+                    <!-- divWidth / 2 (because the arena is centered) -->
+                    <!-- - 50 to see the full characters -->
+                <option value="150">Small</option>
+                <option value="250">Medium</option>
+                <option value="350">Large</option>
+            </select>
+        </div>
+
+        <div class="inputContainer">
+            <label for="playerReach">Difficulty:</label>
+            <select class="playerReachInputBox" id="playerReach">
+                <option value="3">Easy</option>
+                <option value="2">Medium</option>
+                <option value="1">HARD</option>
+            </select>
+        </div>
+        
+        <div class="inputContainer">
+            <label for="maxTime">Max Time:</label>
+            <select class="maxTimeInputBox" id="maxTime">
+                <option value="20">20 seconds</option>
+                <option value="30">30 seconds</option>
+                <option value="60">60 seconds</option>
+            </select>
+        </div>
+        
+        <div class="inputContainer">
+            <label for="maxVel">Max Velocity:</label>
+            <select class="maxVelInputBox" id="maxVel">
+                <option value="0.050">Slow</option>
+                <option value="0.100">Medium</option>
+                <option value="0.150">Fast</option>
+            </select>
+        </div>
+
+        <div class="inputContainer">
+            <label for="skinFugitive">Fugitive's skin:</label>
+            <select class="skinFugitiveInputBox" id="skinFugitive">
+                <option value="pacman">Pacman</option>
+                <option value="chappelOfBones">Chappel Of Bones</option>
+            </select>
+        </div>
+    </div>
+    <div class="mainPanel">
+        <div id="startButton">START</div>
+        <div id="terminal"></div>
+    </div>
+    
+    <!-- Sound effects -->
+    <audio id="startingAudio">
+        <source src="assets/audio/PacmanIntro.mp3" type="audio/mp3">
+        Your browser does not support the audio tag. <!-- Error message -->
+    </audio>
+    <audio id="inGameAudio" loop>
+        <source src="assets/audio/wakaWaka.mp3" type="audio/mp3">
+        Your browser does not support the audio tag. <!-- Error message -->
+    </audio>
+    <audio id="gameOverAudio">
+        <source src="assets/audio/PacmanGameOver.mp3" type="audio/mp3">
+        Your browser does not support the audio tag. <!-- Error message -->
+    </audio>
+</body>
+</html>

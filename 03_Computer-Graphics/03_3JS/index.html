@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <title> Axel &rarr; 3JS</title>
+
+    <!-- Three.JS -->
+    <script defer type='application/javascript'
+        src='lib/threejs/three.min.js'></script>
+    <script defer type='application/javascript'
+        src='lib/threejs/OrbitControls.js'></script>
+
+    <!-- Tween.js -->
+    <script defer type="text/javascript" src="lib/tweenjs/dist/tween.umd.js">
+    </script>
+
+    <script defer type ="module" src = "src/main.js">
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+</head>
+
+<body class="sitepage">
+    <h1 class="title">
+        3JS &CenterDot; Axel &CenterDot; 55248
+    </h1>
+
+    <div id="container"></div>
+
+    <label  id="inputLabel"   for="textInput">How would you name a movie company?</label>
+    <input  id="companyNameInput" type="text" placeholder="andadora (default)">
+    <button id="startButton">START</button>
+
+    <!-- Sound effects -->
+    <audio id="entranceAudio">
+        <source src="../assets/audio/ParamountPicturesIntroHD.mp3" type="audio/mp3">
+        Your browser does not support the audio tag. <!-- Error message -->
+    </audio>
+    <audio id="bgAudio" loop>
+        <!-- <source src="../assets/audio/ParamountPicturesIntroHD.mp3" type="audio/mp3"> -->
+        <source src="../assets/audio/windSound.mp3" type="audio/mp3">
+        Your browser does not support the audio tag. <!-- Error message -->
+    </audio>
+</body>
+
+</html>

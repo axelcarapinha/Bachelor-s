@@ -1,0 +1,97 @@
+/* Configuring through the NAME of the HTML element */
+body, h2, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace; 
+    background-color: hsl(223, 54%, 23%);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 30px;
+    color: hsl(60, 100%, 38%); 
+    text-align: center;
+    letter-spacing: 1px; 
+    margin-bottom: 20px;       
+}
+
+/* Configuring through the ID of the HTML element */
+#basket {
+    /* Centering the div */
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+    width: 800px;
+    max-width: 100%; 
+    height: 800px;
+    border: 5px solid rgba(255, 0, 51, 1);
+    margin: 20px auto 0; 
+    border-radius: 15px;
+}
+
+/* The configuration of a class affects all its childs */
+.userInputMenu {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 1 fractional unit */
+    gap: 30px;
+    margin-top: 15px;
+}
+
+.inputContainer {
+    /* Centering the div */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white; 
+    margin-bottom: 20px;
+}
+.arenaInputBox,
+.playerReachInputBox,
+.maxTimeInputBox,
+.maxVelInputBox,
+.skinFugitiveInputBox {
+    margin-bottom: 1px;
+    width: 80%; 
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.mainPanel {
+    display: flex;
+    justify-content: space-around; 
+    flex-direction: row; 
+    padding: 10px;
+}
+
+#terminal {
+    font-family: Roboto;
+    background-color: #000;
+    color: hsl(53, 79%, 50%);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-shadow: 0 0 5px rgba(255, 0, 0, 0.8);
+    text-align: center;
+}
+
+#startButton {
+    background-color: #ffc107;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+    width: 200px;
+    text-align: center;
+}
+#startButton:hover {
+    background-color: #ffcc00; 
+}
