@@ -72,9 +72,9 @@ It should appear:
 ![Starting image](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/original.png)
 
 ### Results (each choosing a different character from the 3 available)
-![Character 1](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/leftCharacter.png)
-![Character 2](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/middleCharacter.png)
-![Character 3](https://raw.githubusercontent.com/axelcarapinha/Assembly-Character-Identifier/main/images/rightCharacter.png)
+![Character 1](https://github.com/axelcarapinha/Bachellor-s/02_Computer-Architecture-I/main/images/leftCharacter.png)
+![Character 2](https://github.com/axelcarapinha/Bachellor-s/02_Computer-Architecture-I/main/images/middleCharacter.png)
+![Character 3](https://github.com/axelcarapinha/Bachellor-s/02_Computer-Architecture-I/main/images/rightCharacter.png)
 
 
 
