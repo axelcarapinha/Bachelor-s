@@ -5,6 +5,7 @@ Distributed Secure Credential Encryption in the Quantum Era. <br />
     <a href="https://github.com/AfonsoVent">Afonso Ventura</a>. 
 <br />
 Graded 20 / 20 (the same to the final presentation to the classroom). <br />
+O artigo está <a href="Distributed_Secure_Credential_Encryption_in_the_Quantum_Era.pdf">disponível aqui</a>.
 
 ## (1.) My contributions
 <ul>
