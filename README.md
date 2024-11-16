@@ -37,7 +37,29 @@ is my email, so that I can consider disclosing the code earlier if needed :) <br
         (19 / 20) Data Structures and Algorithms II <br />
     </ul>
   </li>
-<br/>
+___________________________________________________________________
+  <li>
+    Semester 5 (2024-2025, Instituto Superior Técnico)
+    <ul>
+        (20 / 20) <a href="https://github.com/axelcarapinha/IST_Machine-learning">Machine Learning<a/><br />
+        (pending...) <a href="https://github.com/axelcarapinha/IST_AMS">Systems Analysis and Modeling<a/> <br />
+        (pending...) <a href="https://github.com/axelcarapinha/IST_LP">Logic for programming<a/> <br />
+        (pending...) <a href="https://github.com/axelcarapinha/IST_MC">Management<a/> <br />
+    </ul>
+  </li>
+  <li>
+    Semester 6 (2024-2025, Instituto Superior Técnico)
+    <ul>
+        (pending...) Integrated Project <br />
+        (pending...) Software Engineering <br />
+        (pending...) Distributed Systems <br />
+        (pending...) Theory of Computation <br />
+        (pending...) Artificial Intelligence <br />
+        (pending...) HASSI and HASSII <br />
+    </ul>
+  </li>
 
 [^1]: University of Évora <br/>
-[^2]: Data Structures and Algorithms
+[^2]: Data Structures and Algorithms <br/>
+[^3]: Instituto Superior Técnico
+
