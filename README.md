@@ -1,7 +1,7 @@
 # Bachelor's Assignments
 Assignments I'm doing while pursuing my Bachelor's degree in Computer Science, with the grade at its left side.<br />
 For now, I'll maintain a small amount of publicly available code. <br /> 
-However, <a href="mailto:axelcarapinha20@gmail.com">this</a>
+However, <a href="mailto:contact@axelamc.com">this</a>
 is my email, so that I can consider disclosing the code earlier if needed :) <br />
 
 <!-- TABLE OF CONTENTS -->
