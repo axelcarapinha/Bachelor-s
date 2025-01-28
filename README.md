@@ -44,7 +44,6 @@ ___________________________________________________________________
         (20 / 20) <a href="https://github.com/axelcarapinha/IST_Machine-learning">Machine Learning<a/><br />
         (pending...) <a href="https://github.com/axelcarapinha/IST_AMS">Systems Analysis and Modeling<a/> <br />
         (pending...) <a href="https://github.com/axelcarapinha/IST_LP">Logic for programming<a/> <br />
-        (pending...) <a href="https://github.com/axelcarapinha/IST_MC">Management<a/> <br />
     </ul>
   </li>
   <li>
@@ -53,8 +52,7 @@ ___________________________________________________________________
         (pending...) Integrated Project <br />
         (pending...) Software Engineering <br />
         (pending...) Distributed Systems <br />
-        (pending...) Theory of Computation <br />
-        (pending...) Artificial Intelligence <br />
+        (pending...) AI <br />
         (pending...) HASSI and HASSII <br />
     </ul>
   </li>
