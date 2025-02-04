@@ -42,7 +42,7 @@ ___________________________________________________________________
     Semester 5 (2024-2025, Instituto Superior Técnico)
     <ul>
         (20 / 20) <a href="https://github.com/axelcarapinha/IST_Machine-learning">Machine Learning<a/><br />
-        (pending...) <a href="https://github.com/axelcarapinha/IST_AMS">Systems Analysis and Modeling<a/> <br />
+        (18 / 20) <a href="https://github.com/axelcarapinha/IST_AMS">Systems Analysis and Modeling<a/> <br />
         (20 / 20) <a href="https://github.com/axelcarapinha/IST_LP">Logic for programming<a/> <br />
     </ul>
   </li>
