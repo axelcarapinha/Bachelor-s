@@ -49,7 +49,7 @@ ___________________________________________________________________
   <li>
     Semester 6 (2024-2025, Instituto Superior Técnico)
     <ul>
-        (pending...) Integrated Project <br />
+        (pending...) Open source contribution <br />
         (pending...) Software Engineering <br />
         (pending...) Distributed Systems <br />
         (pending...) AI <br />
