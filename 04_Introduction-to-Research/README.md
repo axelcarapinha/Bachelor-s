@@ -1,4 +1,4 @@
-# Introduction to Investigation
+# Introduction to Research
 Distributed Secure Credential Encryption in the Quantum Era. <br />
 <u>Group assignment</u> made with
     <a href="https://github.com/davidalmarinho">David Marinho</a> and 
