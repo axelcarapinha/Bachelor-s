@@ -20,7 +20,7 @@ However, feel free to <a href="mailto:contact@axelamc.com">contact me</a> if you
 - **Semester 4 (2023-2024, University of Évora)**
   - (19 / 20) Computer Networks
   - (16 / 20) Operating Systems
-  - (20 / 20) <a href="./04_Introduction-to-Investigation/">Introduction to Research</a>
+  - (20 / 20) <a href="./04_Introduction-to-Research/">Introduction to Research</a>
   - (19 / 20) DSA[^1] II
 ___________________________________________________________________
 
