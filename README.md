@@ -1,63 +1,41 @@
 # Bachelor's Assignments
-Assignments I'm doing while pursuing my Bachelor's degree in Computer Science, with the grade at its left side.<br />
-For now, I'll maintain a small amount of publicly available code. <br /> 
-However, <a href="mailto:contact@axelamc.com">this</a>
-is my email, so that I can consider disclosing the code earlier if needed :) <br />
+Assignments I'm working on while pursuing my Bachelor's degree in Computer Science, with the grade displayed on the left side.  
+For now, I'll keep a small amount of code publicly available.  
+However, feel free to <a href="mailto:contact@axelamc.com">contact me</a> if you'd like to learn more about an undisclosed project.
 
-<!-- TABLE OF CONTENTS -->
-  <li>
-    Semester 1 (2022-2023, University of Évora)
-    <ul>
-        (20 / 20) Human-Machine Interaction <br />
-        (16 / 20) Programming I <br />
-        (17 / 20) Digital Systems <br />
-    </ul>
-  </li>
-  <li>
-    Semester 2 (2022-2023, University of Évora)
-    <ul>
-        (19 / 20) <a href="./02_Computer-Architecture-I/">Computer Architecture I</a><br />
-        (16 / 20) Data Structures and Algorithms I <br />
-    </ul> 
-  </li>
-  <li>
-    Semester 3 (2023-2024, University of Évora)
-    <ul>
-        (20 / 20) <a href="./03_Databases/">Databases</a><br />
-        (19 / 20) <a href="./03_Computer-Graphics/">Computer Graphics</a><br/>
-        (20 / 20) <a href="https://github.com/axelcarapinha/Grassland">Programming II</a> <br />
-    </ul>
-  </li>
-  <li>
-    Semester 4 (2023-2024, University of Évora)
-    <ul>
-        (19 / 20) Computer Networks <br />
-        (16 / 20) Operating Systems <br />
-        (20 / 20) <a href="./04_Introduction-to-Investigation/">Introduction to Investigation</a><br />
-        (19 / 20) Data Structures and Algorithms II <br />
-    </ul>
-  </li>
+- **Semester 1 (2022-2023, University of Évora)**
+  - (20 / 20) Human-Machine Interaction  
+  - (16 / 20) Programming I
+  - (17 / 20) Digital Systems
+
+- **Semester 2 (2022-2023, University of Évora)**
+  - (19 / 20) <a href="./02_Computer-Architecture-I/">Computer Architecture I</a>
+  - (16 / 20) DSA[^1] I
+
+- **Semester 3 (2023-2024, University of Évora)**
+  - (20 / 20) <a href="./03_Databases/">Databases</a>
+  - (19 / 20) <a href="./03_Computer-Graphics/">Computer Graphics</a>
+  - (20 / 20) <a href="https://github.com/axelcarapinha/Grassland">Programming II</a>
+
+- **Semester 4 (2023-2024, University of Évora)**
+  - (19 / 20) Computer Networks
+  - (16 / 20) Operating Systems
+  - (20 / 20) <a href="./04_Introduction-to-Investigation/">Introduction to Research</a>
+  - (19 / 20) DSA[^1] II
 ___________________________________________________________________
-  <li>
-    Semester 5 (2024-2025, Instituto Superior Técnico)
-    <ul>
-        (20 / 20) <a href="https://github.com/axelcarapinha/IST_Machine-learning">Machine Learning<a/><br />
-        (18 / 20) <a href="https://github.com/axelcarapinha/IST_AMS">Systems Analysis and Modeling<a/> <br />
-        (20 / 20) <a href="https://github.com/axelcarapinha/IST_LP">Logic for programming<a/> <br />
-    </ul>
-  </li>
-  <li>
-    Semester 6 (2024-2025, Instituto Superior Técnico)
-    <ul>
-        (pending...) Open source contribution <br />
-        (pending...) Software Engineering <br />
-        (pending...) Distributed Systems <br />
-        (pending...) AI <br />
-        (pending...) HASSI and HASSII <br />
-    </ul>
-  </li>
 
-[^1]: University of Évora <br/>
-[^2]: Data Structures and Algorithms <br/>
-[^3]: Instituto Superior Técnico
+- **Semester 5 (2024-2025, Instituto Superior Técnico)**
+  - (20 / 20) [Machine Learning](https://github.com/axelcarapinha/IST_Machine-learning)  
+  - (18 / 20) [Systems Analysis and Modeling](https://github.com/axelcarapinha/IST_AMS)  
+  - (20 / 20) [Logic for Programming](https://github.com/axelcarapinha/IST_LP)
 
+- **Semester 6 (2024-2025, Instituto Superior Técnico)**
+  - (pending...) Open source contribution  
+  - (pending...) Software Engineering  
+  - (pending...) Distributed Systems  
+  - (pending...) AI  
+  - (pending...) Introductory Economics (HASS[^2])
+  - (pending...) Climate Crisis and Just Transition (HASS[^2])
+
+[^1]: Data Structures and Algorithms
+[^2]: Humanities, Arts and Social Sciences
